@@ -1,0 +1,1 @@
+{"clone-url": "https://github.com/explosion/cython-blis.git", "package-name": "cython-blis", "commit": "v0.0.15", "upload-to": {"type": "github-release", "repo-id": "honnibal/magic-build-repo", "release-id": "cython-blis-v0.0.15-wheels"}}
